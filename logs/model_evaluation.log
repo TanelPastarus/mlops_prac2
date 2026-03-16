@@ -2,3 +2,17 @@
 2026-03-16 11:13:17,252 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
 2026-03-16 11:13:17,260 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2026-03-16 11:13:17,260 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-03-16 11:31:23,273 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-03-16 11:31:23,276 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-03-16 11:31:23,284 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-03-16 11:31:23,285 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-03-16 11:43:43,791 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-03-16 11:43:43,794 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-03-16 11:43:43,795 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-03-16 11:43:43,804 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-03-16 11:43:43,908 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-03-16 11:48:22,443 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-03-16 11:48:22,446 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-03-16 11:48:22,446 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-03-16 11:48:22,461 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-03-16 11:48:22,561 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json

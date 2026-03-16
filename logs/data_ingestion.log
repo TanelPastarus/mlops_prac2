@@ -4,3 +4,11 @@
 2026-03-16 11:24:41,664 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/asadmnr/ut-mlops-dataset/refs/heads/main/spam.csv
 2026-03-16 11:24:41,666 - data_ingestion - DEBUG - Data preprocessing completed
 2026-03-16 11:24:41,682 - data_ingestion - DEBUG - Train and test data saved to ./data/raw
+2026-03-16 11:31:17,245 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-03-16 11:31:17,540 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/asadmnr/ut-mlops-dataset/refs/heads/main/spam.csv
+2026-03-16 11:31:17,541 - data_ingestion - DEBUG - Data preprocessing completed
+2026-03-16 11:31:17,554 - data_ingestion - DEBUG - Train and test data saved to ./data/raw
+2026-03-16 11:48:19,415 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-03-16 11:48:19,825 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/asadmnr/ut-mlops-dataset/refs/heads/main/spam.csv
+2026-03-16 11:48:19,826 - data_ingestion - DEBUG - Data preprocessing completed
+2026-03-16 11:48:19,836 - data_ingestion - DEBUG - Train and test data saved to ./data/raw
